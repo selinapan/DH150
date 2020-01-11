@@ -2,7 +2,7 @@
 Evaluation of **Venmo** and **Wescom Banking**
 --------------------------------------------------
 
-**#1: Visibility of system status
+**#1: Visibility of system status **
 |         |  Venmo     |   Wescom    |
 --------------------------------------
 
