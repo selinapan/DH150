@@ -13,19 +13,13 @@ __#2: Match between system and the real world__
 > Venmo: Evaluation - 2
 >> _Good_ - The buttons change color; when the user clicks the blue pay button, it changes to green for confirmation. When writing a pay or request sheet, the title will change to Pay or Request when the user clicks one of the options. When the user gets paid, the amount will be a + sign and green, and when the user pays someone, the amount will be - and red. The icons are recognizable and reflect their true function; for example, to pay or request, the top right button is a notepad with a $ sign on it and pencil to write. 
 >
->>_Bad_ - The color of the buttons for pay and request are the same. The user may accidentally pay a friend when meaning to request from a friend, because both buttons are blue and change to green. It can be hard to notice that the title changed to Pay because the user's focus is more likely to be at the bottom of the screen and notice the color change, rather than the text change. 
-
-private mode still shows the captoins, not the amount - the assumption would be that private means everything is private -- but ur feed will show the person and the caption still 
+>>_Bad_ - The color of the buttons for pay and request are the same. The user may accidentally pay a friend when meaning to request from a friend, because both buttons are blue and change to green. It can be hard to notice that the title changed to Pay because the user's focus is more likely to be at the bottom of the screen and notice the color change, rather than the text change. The term "private" implies that all the information would be private from other users, however, private mode still shows the user's captions and who he or she interacted with. 
 
 __#3: User control and freedom__
 > Venmo: Evaluation - 2
->> _Good_ - The caption serves as a reminder to the user and recipient of the reason behind the transaction. This is helpful if the user forget why x amount of money was paid or requested. 
+>> _Good_ - The caption serves as a reminder to the user and recipient of the reason behind the transaction. This is helpful if the user forget why x amount of money was paid or requested. There is a clear cancel sign if the user decides he or she does not want to pay or request someone. 
 >
->>_Bad_ - 
-bad - autofill emojis even when u dont want 
-can discard a started charge but not save a draft - if user has calculated the amount and forgot the username, he or she will have restart if going to search for the other user
-cannot charge or pay multiple people - many ppl use venmo when goign out to eat with friends and it can be annoying for the person who paid to have to charge the same amount to ppl and have to remember who thye havent charged yet.
-
+>>_Bad_ - The caption often autofills emojis whether the user would like that or not. It can be annoying to have to retype the caption or use a different word to avoid an emoji popping up. There is no option to save a draft. The user can easily cancel and discard a charge, however if he or she needs to go back to check the other person's username or recalculate the amount, the user must discard the working pay/request to go look through his or her friend list and then redraft a new pay/request (caption, amount, person). The user cannot cannot charge or pay multiple people; this makes it difficult on the user to have to remember who he or she has not paid/requested, the amount(s), and takes more time than necessary. Many people use Venmo when going out to eat with friends, and the person who paid will request their friends. If they split the bill equally, it becomes tedious for the user to charge the exact same amount to each person, as they have to create a new request each time.
 
 **#4: Consistency and standards
 
@@ -47,7 +41,7 @@ bad - easy to mistype amount or forget the decimal
 **#7: Flexibility and efficiency of use
 
 > Good - functions like adding or multiplying in the app and can quickly scan code rather than type
-> Bad - these functions are not prominent and can be difficult to find. 
+> Bad - these functions are not prominent and can be difficult to find. unclear that u have to click on ur name to view ur prfile
 
 **#8: Aesthetic and minimalist design
 
