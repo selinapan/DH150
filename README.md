@@ -3,9 +3,10 @@ Evaluation of **Venmo** and **Wescom Banking**
 --------------------------------------------------
 
 __#1: Visibility of system status__
-Venmo: Evaluation - 3
-> _Good_ - Loading sign when entering the app. The personal balance is apparent when user is confirming to pay to the recipient. 
-> _Bad_ - User's personal balance in Venmo should be more apparent (whether it be the first thing seen or putting it on the home page). The home page is always the user's friends' payments to other people; the purpose of Venmo is for the user to pay or receive money, and _the homescreen serves no purpose to accomplish these goals_. The homescreen should be the screen to pay and request people money, or the icon should be larger and more noticeable. The other options on the homescreen are a globe, where the user can see anyone's payments. This is unrelated to the user. The user can also click the single friend icon and see his or her own transactions. This seems like it is the user's profile, but it is not; the user can see transactions, but no total amount gained or lost, nor can he or she see their personal balance. 
+> Venmo: Evaluation - 3
+>> _Good_ - Loading sign when entering the app. The personal balance is apparent when user is confirming to pay to the recipient. 
+>
+>> _Bad_ - User's personal balance in Venmo should be more apparent (whether it be the first thing seen or putting it on the home page). The home page is always the user's friends' payments to other people; the purpose of Venmo is for the user to pay or receive money, and _the homescreen serves no purpose to accomplish these goals_. The homescreen should be the screen to pay and request people money, or the icon should be larger and more noticeable. The other options on the homescreen are a globe, where the user can see anyone's payments. This is unrelated to the user. The user can also click the single friend icon and see his or her own transactions. This seems like it is the user's profile, but it is not; the user can see transactions, but no total amount gained or lost, nor can he or she see their personal balance. 
 
 
 **#2: Match between system and the real world
