@@ -8,6 +8,7 @@ I chose to focus my project on finance/banking apps that I personally use a lot.
 ![Venmo App](https://387b72ivq1z3mni0n261y7l1-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/1-1.png)
 >
 [Wescom Website](https://www.wescom.org/)
+>
 ![Wescom Logo](https://lh3.googleusercontent.com/6WgxQfMeUOvgBp2lcDn2WN75HQm3wCFELc_WCl_G_D7T7EmUrKvtH5xZd1LhatBbe8o)
 ![Wescom App](https://wescom.org/newsletters/touchpoints/2015-07/images/iphone.jpg)
 
