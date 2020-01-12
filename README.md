@@ -1,6 +1,8 @@
 # Selina Pan DH150
 Evaluation of **Venmo** and **Wescom Banking**
 --------------------------------------------------
+I chose to focus my project on finance/banking apps that I personally use a lot. Venmo is an app that allows people to transact money. It is connected to one's bank account, so that the user can transfer money in or out of their Venmo account. One of the best things about this app is that it allows people to go out without cash and coins. Many people use the app, probably mostly high school and college young adults, so it is an easy, popular form of money transaction. When going out to eat with many friends, it tends to be easier to have one person pay and the rest Venmo that one person than to ask the waiter to split the bill into several parts. Additionally, exact change is easy to do on the app, whereas in real life it can be annoying or tedious to have to pay, for example, 63 cents. While I enjoy using Venmo because it is simple to use and easy to transact money with friends or strangers, there are functions that I would like to improve, so my overall evaluation is a 2. 
+
 
 __#1: Visibility of system status__
 > Venmo: Evaluation - 3
