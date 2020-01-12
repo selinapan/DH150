@@ -14,15 +14,15 @@ I chose to focus my project on the finance/banking community, because Venmo and 
 
 __#1: Visibility of system status__
 > Venmo: Evaluation - 3
->> _Good_ - Loading sign when entering the app. The menu labels/icons are clear and will have drop down menus to see more options. The user can immediately click accounts to check their personal financial status.
+>> _Good_ - Loading sign when entering the app and when a payment or request is being sent. The personal balance is apparent when user is confirming to pay to the recipient. Incomplete requests or payments to the user are noticeable.
 >
->> _Bad_ - The configuration of the home screen is a bit confusing. There are 9 icons that correspond to some parts of the "Main Menu." The user can access these through the sidebar, so it seems redundant to have these. Perhaps these are the most used functions, in which case this can be helpful to an expert user. When clicking on an icon such as BillPayer, more icons to schedule, manage payees, and pending & history show up. At first glance, these seem like suggestions or instructions of the icon function. It is not clear that the user is supposed to choose one of these icons to proceed forward. Additionally, the app seems to run a bit slow, as there is always a loading sign when clicking any icon. 
+>> _Bad_ - User's personal balance in Venmo should be more apparent (whether it be the first thing seen or putting it on the home page). The home page is always the user's friends' payments to other people; the purpose of Venmo is for the user to pay or receive money, and _the homescreen serves no purpose to accomplish these goals_. The homescreen should be the screen to pay and request people money, or the icon should be larger and more noticeable. The other options on the homescreen are a globe, where the user can see anyone's payments. This is unrelated to the user. The user can also click the single friend icon and see his or her own transactions. This seems like it is the user's profile, but it is not; the user can see transactions, but no total amount gained or lost, nor can he or she see their personal balance. 
 >
 >
 > Wescom: Evaluation - 2
->> _Good_ - Loading signs when entering the app and clicking on an icon. The personal balance is apparent when user is confirming to pay to the recipient. Incomplete requests or payments to the user are noticeable.
+>> _Good_ - Loading signs when entering the app and clicking on an icon. The menu labels/icons are clear and have drop down menus to see more options in the sidebar. The drop down menu shows many options.
 >
->> _Bad_ - User's personal balance in Venmo should be more apparent (whether it be the first thing seen or putting it on the home page). The home page is always the user's friends' payments to other people; the purpose of Venmo is for the user to pay or receive money, and _the homescreen serves no purpose to accomplish these goals_. The homescreen should be the screen to pay and request people money, or the icon should be larger and more noticeable. The other options on the homescreen are a globe, where the user can see anyone's payments. This is unrelated to the user. The user can also click the single friend icon and see his or her own transactions. This seems like it is the user's profile, but it is not; the user can see transactions, but no total amount gained or lost, nor can he or she see their personal balance. 
+>> _Bad_ - The configuration of the home screen is a bit confusing. There are 9 icons that correspond to some parts of the "Main Menu." The user can access these through the sidebar, so it seems redundant to have these. Perhaps these are the most used functions, in which case this can be helpful to an expert user. When clicking on an icon such as BillPayer, more icons to schedule, manage payees, and pending & history show up. At first glance, these seem like suggestions or instructions of the icon function. It is not clear that the user is supposed to choose one of these icons to proceed forward. Additionally, the app seems to run a bit slow, as there is always a loading sign when clicking any icon. 
 
 __#2: Match between system and the real world__
 > Venmo: Evaluation - 2
@@ -35,7 +35,6 @@ __#2: Match between system and the real world__
 >> _Good_ - The icons seem to reflect the associated function. For example, the "Card Center" icon is a credit card and "Car Buying Service" has a car icon. They use common icons, such as the location icon to indicate "Find ATM/Branch." The app is relatively intuitive to use, as there are commonly used icons and clearly depicted icons.
 >
 >> _Bad_ - Everything is the same color. The user must rely on differing icons and some text to navigate the app. Thus, the user must be familiar with banking terminology and the typical Wescom functions. Similar to an iPhone homescreen, the user can swipe, but there is no function to this, as there are no other pages to go to. The user must swipe specifically the left side of the screen or tap the icon with 3 lines to access the menu options
-
 
 __#3: User control and freedom__
 > Venmo: Evaluation - 2
@@ -83,7 +82,7 @@ __#6: Recognition rather than recall__
 > Wescom: Evaluation - 3
 >> _Good_ - The icons are recognizable and expert users will be familiar with the app after using it for some time.
 >
->> _Bad_ - Novice users must be familiar with the terminologies and functions that Wescom provides. This makes it hard for users that are just starting to handle their own finances to navigate easily and quickly. There are several logins or security measures that users must remember. However, this is also important because users are dealing with money.
+>> _Bad_ - Users must be familiar with the terminologies and functions that Wescom provides. This makes it hard for users that are just starting to handle their own finances to navigate easily and quickly. There are several logins or security measures that users must remember. However, this is also important because users are dealing with money.
 
 __#7: Flexibility and efficiency of use__
 > Venmo: Evaluation - 2
