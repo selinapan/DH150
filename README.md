@@ -46,15 +46,16 @@ __#7: Flexibility and efficiency of use__
 
 __#8: Aesthetic and minimalist design__
 > Venmo: Evaluation - 1
->> _Good_ -  The color scheme is consistent; the blue and white from the app icon is the same blue and white that shows up in the app. There are no distracting background colors; the header is blue, the screen is white, and the writing is in black and grey (and green and red for amounts). The visuals support the user goals and communicate function.
+>> _Good_ -  The color scheme is consistent; the blue and white from the app icon is the same blue and white that shows up in the app. There are no distracting background colors; the header is blue, the screen is white, and the writing is in black and grey (and green and red for amounts). The visuals support the user goals and communicate function, indicating a high signal to noise ratio. The blue is nice to look at, and indicates trustworthiness which is important with monetary issues at hand. Additionally, blue is a commonly liked color, making it a safe choice for an app.
+
+__#9: Help users recognize, diagnose, and recover from errors__
+> Venmo: Evaluation - 2
+>> _Good_ - A note/caption is required with each pay or request, so if a user tries to pay or request money without inserting a caption, a warning and example of a caption will pop up, preventing the user from following through with his or her actions, but also providing a solution. 
 >
+>>_Bad_ - There are no drafts to save. If the user starts a pay or request, there is no way to save the work on the charge and go back to the homescreen or other functions. If the user sends money to the wrong person, there is not much that can be done to reverse the error; there is no undo button, as the money has been sent already. The user can request that money back from the recipient, but relies on the recipient to return the money. 
 
-
-**#9: Help users recognize, diagnose, and recover from errors
-
-Example: required field*, internet connection warning, (404 error)
-
-**#10: Help and documentation
-
-Example: help page, faq form, search, find out more -- chat/online help, provide tour/training.
-
+__#10: Help and documentation__
+> Venmo: Evaluation - 1
+>> _Good_ - There is a clear help section in the sidebar menu that loads 3 options (Browse FAQs, Contact Us, and My Support Tickets). The user can search topics in the FAQs or scroll through popular topics and several articles. The FAQ seems to be organized well; there are sections regarding signing up, transferring to the bank, cards, payments and requests, etc. The user can click on an article and will be brought to a detailed page with bolded questions and answers. The Contact Us tab can redirect the user to the FAQs or the user can choose to email, chat, or call Venmo. It is also helpful that there is a tab to check the hours of operation of Venmo.
+>
+>>_Bad_ - Not entirely sure what "My Support Tickets" do; there is no explanation and nothing when the user clicks the tab because the user has no support tickets currently. Additionally, the "Chat with Us" tab does not seem to be working as it says it "could not connect, try again later."
