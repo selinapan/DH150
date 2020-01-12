@@ -37,8 +37,8 @@ __#3: User control and freedom__
 >
 >
 > Wescom: Evaluation - 2
->> _Good_: There are cancel buttons for functions where there are several options. There is a clear back arrow for when the user goes into an information center such as "Card Center" or "Account Center." There is a small > for buttons that the user can press and see more information.
->> _Bad_: While there is not much fear about getting stuck in part of the app, there is a fear of navigating incorrectly. Personally, I am scared that as a novice user, I will mess something up with the bank account or amount present. Additionally, some aspects can be hard to undo. For example, there was recently an option to "Enable Express Access," in which the phone owner/user can click on the Wescom app and see all the amounts on the homescreen without logging in. The function of what Express Access was not clear in the brief description, and so I pressed Enable, in fear that if I cancelled, I would not be able to have that option again. However, I did not like that anyone with access to my phone could view my banking account. It was incredibly hard to find where Express Access's settings were; it should have been clear from the blurb where to find this function if I wanted to turn it off/on in later times. 
+>> _Good_ - There are cancel buttons for functions where there are several options. There is a clear back arrow for when the user goes into an information center such as "Card Center" or "Account Center." There is a small > for buttons that the user can press and see more information.
+>> _Bad_ - While there is not much fear about getting stuck in part of the app, there is a fear of navigating incorrectly. Personally, I am scared that as a novice user, I will mess something up with the bank account or amount present. Additionally, some aspects can be hard to undo. For example, there was recently an option to "Enable Express Access," in which the phone owner/user can click on the Wescom app and see all the amounts on the homescreen without logging in. The function of what Express Access was not clear in the brief description, and so I pressed Enable, in fear that if I cancelled, I would not be able to have that option again. However, I did not like that anyone with access to my phone could view my banking account. It was incredibly hard to find where Express Access's settings were; it should have been clear from the blurb where to find this function if I wanted to turn it off/on in later times. 
 
 __#4: Consistency and standards__
 > Venmo: Evaluation - 1
@@ -48,8 +48,8 @@ __#4: Consistency and standards__
 >
 >
 > Wescom: Evaluation - 2
->> _Good_: The location of the buttons is consistent and the icons are all different. 
->> _Bad_: The icons mostly all deal with an aspect of banking, so it can be difficult to locate exactly which function the user would like to use, as the text is very small. The icons under a function are pretty similar and don't make much sense. For example, under SnapDeposit, there is Deposit and Pending & History. The two nested buttons are the same as the SnapDeposit button, but Deposit has a play symbol and pending has a search symbol; the reasoning behind this is not so clear. Additionally, it is unclear whether or not you can rearrange the 9 homescreen icons to be tailored to the user. It would be interesting if this could reflect an iPhone's homescreen, where the user can drag and relocate icons to their personal preference. 
+>> _Good_ - The location of the buttons is consistent and the icons are all different. 
+>> _Bad_ - The icons mostly all deal with an aspect of banking, so it can be difficult to locate exactly which function the user would like to use, as the text is very small. The icons under a function are pretty similar and don't make much sense. For example, under SnapDeposit, there is Deposit and Pending & History. The two nested buttons are the same as the SnapDeposit button, but Deposit has a play symbol and pending has a search symbol; the reasoning behind this is not so clear. Additionally, it is unclear whether or not you can rearrange the 9 homescreen icons to be tailored to the user. It would be interesting if this could reflect an iPhone's homescreen, where the user can drag and relocate icons to their personal preference. 
 
 __#5: Error prevention__
 > Venmo: Evaluation - 2
@@ -59,9 +59,9 @@ __#5: Error prevention__
 >
 >
 > Wescom: Evaluation - 1
->> _Good_: When making a SnapDeposit, there are instructions about how to correctly take the photo for the deposit to work. Additionally, if the photo is insufficient, an error message will pop up and indicate reasons for why it did not work. For security measures, the app will automatically log the user out after some inactivity.
+>> _Good_ - When making a SnapDeposit, there are instructions about how to correctly take the photo for the deposit to work. Additionally, if the photo is insufficient, an error message will pop up and indicate reasons for why it did not work. For security measures, the app will automatically log the user out after some inactivity.
 >
->> _Bad_: The error message makes it seem like the image is too large and too small. The error message can be written to be more clear, indicating possible reasons for why the image did not work.
+>> _Bad_ -The error message makes it seem like the image is too large and too small. The error message can be written to be more clear, indicating possible reasons for why the image did not work.
 
 __#6: Recognition rather than recall__
 > Venmo: Evaluation - 2
@@ -71,9 +71,9 @@ __#6: Recognition rather than recall__
 >
 >
 > Wescom: Evaluation - 3
->> _Good_: The icons are recognizable and expert users will be familiar with the app after using it for some time.
+>> _Good_ - The icons are recognizable and expert users will be familiar with the app after using it for some time.
 >
->> _Bad_: Novice users must be familiar with the terminologies and functions that Wescom provides. This makes it hard for users that are just starting to handle their own finances to navigate easily and quickly. There are several logins or security measures that users must remember. However, this is also important because users are dealing with money.
+>> _Bad_ - Novice users must be familiar with the terminologies and functions that Wescom provides. This makes it hard for users that are just starting to handle their own finances to navigate easily and quickly. There are several logins or security measures that users must remember. However, this is also important because users are dealing with money.
 
 __#7: Flexibility and efficiency of use__
 > Venmo: Evaluation - 2
@@ -83,22 +83,40 @@ __#7: Flexibility and efficiency of use__
 >
 >
 > Wescom: Evaluation - 3
->> _Good_: The homescreen serves as a shortcut to 9 menu options that users may tend to use the most.
+>> _Good_ - The homescreen serves as a shortcut to 9 menu options that users may tend to use the most.
 >
->> _Bad_: This app caters more towards expert users than novice users. Novice users may feel overwhelmed with the different functions while not completely understanding banking and finances. There are so many menu options grouped together and it takes time to try and go through to understand each and every one of them.
+>> _Bad_ - This app caters more towards expert users than novice users. Novice users may feel overwhelmed with the different functions while not completely understanding banking and finances. There are so many menu options grouped together and it takes time to try and go through to understand each and every one of them.
 
 __#8: Aesthetic and minimalist design__
 > Venmo: Evaluation - 1
 >> _Good_ -  The color scheme is consistent; the blue and white from the app icon is the same blue and white that shows up in the app. There are no distracting background colors; the header is blue, the screen is white, and the writing is in black and grey (and green and red for amounts). The visuals support the user goals and communicate function, indicating a high signal to noise ratio. The blue is nice to look at, and indicates trustworthiness which is important with monetary issues at hand. Additionally, blue is a commonly liked color, making it a safe choice for an app.
+>
+>
+> Wescom: Evaluation - 2
+>> _Good_ - The color theme is uniform; shades of blue and a white/grey color that matches their logo. While the background is blue, the user can slightly see several Wescom logos. Blue again indicates trustworthiness and is well liked, so users may subconciously feel secure in trusting Wescom with their banking needs. 
+>
+>> _Bad_ - While the visuals support the user goals, the app looks a bit boring and old school. Perhaps this is the look that the designers were going for, as it could translate across as experience and establish more trust. However, with the advancements of technology today, and having competitors like Chase banking or Bank of America, Wescom's app design is decent but not as aesthetic or personal as the others may be. For example, Bank of America's icons are photos of people smiling or interacting, things that may let the user feel a sense of happiness when using that app or website.
 
 __#9: Help users recognize, diagnose, and recover from errors__
 > Venmo: Evaluation - 2
 >> _Good_ - A note/caption is required with each pay or request, so if a user tries to pay or request money without inserting a caption, a warning and example of a caption will pop up, preventing the user from following through with his or her actions, but also providing a solution. 
 >
 >>_Bad_ - There are no drafts to save. If the user starts a pay or request, there is no way to save the work on the charge and go back to the homescreen or other functions. If the user sends money to the wrong person, there is not much that can be done to reverse the error; there is no undo button, as the money has been sent already. The user can request that money back from the recipient, but relies on the recipient to return the money. 
+>
+>
+> Wescom: Evaluation - 2
+>> _Good_ - An error message will pop up when the user tries to proceed forward when the previous step was wrong. The message will convey what to fix.
+>
+>> _Bad_ - The message error is not clear and can be contradictory. The message error could be written better; instead of a photo of the check being too big and too small and try again, the message could say that the photo is either too big or too small, try flattening the check and trying again. There are no save draft functions, the user either proceeds to submit or cancels.
 
 __#10: Help and documentation__
 > Venmo: Evaluation - 1
 >> _Good_ - There is a clear help section in the sidebar menu that loads 3 options (Browse FAQs, Contact Us, and My Support Tickets). The user can search topics in the FAQs or scroll through popular topics and several articles. The FAQ seems to be organized well; there are sections regarding signing up, transferring to the bank, cards, payments and requests, etc. The user can click on an article and will be brought to a detailed page with bolded questions and answers. The Contact Us tab can redirect the user to the FAQs or the user can choose to email, chat, or call Venmo. It is also helpful that there is a tab to check the hours of operation of Venmo.
 >
 >>_Bad_ - Not entirely sure what "My Support Tickets" do; there is no explanation and nothing when the user clicks the tab because the user has no support tickets currently. Additionally, the "Chat with Us" tab does not seem to be working as it says it "could not connect, try again later."
+>
+>
+> Wescom: Evaluation - 2
+>> _Good_ - There is a section to "Contact Us" that provides help in finding an ATM, scheduling an appointment, calling, live chat, or emailing Wescom. These icons are in the sidebar as well as the bottom bar of the home screen.
+>
+>> _Bad_ - There is no clear FAQ section for users who are in need of a quick fix and cannot wait on the phone or for an email. Thus, it is not easy to search for answers and users will stay confused about their problems. 
