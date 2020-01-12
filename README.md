@@ -38,6 +38,7 @@ __#3: User control and freedom__
 >
 > Wescom: Evaluation - 2
 >> _Good_ - There are cancel buttons for functions where there are several options. There is a clear back arrow for when the user goes into an information center such as "Card Center" or "Account Center." There is a small > for buttons that the user can press and see more information.
+>
 >> _Bad_ - While there is not much fear about getting stuck in part of the app, there is a fear of navigating incorrectly. Personally, I am scared that as a novice user, I will mess something up with the bank account or amount present. Additionally, some aspects can be hard to undo. For example, there was recently an option to "Enable Express Access," in which the phone owner/user can click on the Wescom app and see all the amounts on the homescreen without logging in. The function of what Express Access was not clear in the brief description, and so I pressed Enable, in fear that if I cancelled, I would not be able to have that option again. However, I did not like that anyone with access to my phone could view my banking account. It was incredibly hard to find where Express Access's settings were; it should have been clear from the blurb where to find this function if I wanted to turn it off/on in later times. 
 
 __#4: Consistency and standards__
@@ -49,6 +50,7 @@ __#4: Consistency and standards__
 >
 > Wescom: Evaluation - 2
 >> _Good_ - The location of the buttons is consistent and the icons are all different. 
+>
 >> _Bad_ - The icons mostly all deal with an aspect of banking, so it can be difficult to locate exactly which function the user would like to use, as the text is very small. The icons under a function are pretty similar and don't make much sense. For example, under SnapDeposit, there is Deposit and Pending & History. The two nested buttons are the same as the SnapDeposit button, but Deposit has a play symbol and pending has a search symbol; the reasoning behind this is not so clear. Additionally, it is unclear whether or not you can rearrange the 9 homescreen icons to be tailored to the user. It would be interesting if this could reflect an iPhone's homescreen, where the user can drag and relocate icons to their personal preference. 
 
 __#5: Error prevention__
