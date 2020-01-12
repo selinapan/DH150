@@ -39,16 +39,16 @@ __#6: Recognition rather than recall__
 >> _Bad_ - User must build up a network of friends before this function is available. A novice user will need to recall someone's user handle. If the user would like to pay or request someone who is not one of his or her "top friends," he or she will need to recall part of the recipient's name in order for the handle to pop up.
 
 __#7: Flexibility and efficiency of use__
-> Venmo: Evaluation - 
->> _Good_ - There are functions to add/subtract and multiply/divide when making a Venmo pay or request. The user can also scan another Venmo user's code 
+> Venmo: Evaluation - 2
+>> _Good_ - There are functions to add/subtract and multiply/divide when making a Venmo pay or request. The user can also scan another Venmo user's code rather than type in the handle. It is also easy to add friends on Venmo, after knowing their handle.
 >
->>_Bad_ - There is no confirmation of "Are you sure you want to send to x 
-> Good - functions like adding or multiplying in the app and can quickly scan code rather than type
-> Bad - these functions are not prominent and can be difficult to find. unclear that u have to click on ur name to view ur prfile
+>>_Bad_ - It can be difficult to find people on Venmo through typing their full name. It can be annoying to type someone's handle, because as more people use the app, more usernames are taken. Thus, many handle names include dashes and arbitrary numbers. The functions to do math (to figure out tax or splitting the bill, etc) are not prominent. Though they are right next to the numbers, it seems that many users are unaware that these functions actually work to benefit the user. However, I still see many users pulling out the calculator app to calculate the bill, which is inefficient. This indicates that the functions need to be more clear (bigger, different colors, or something). It is also unclear that the user must click on their name to view their profile and that the small button next to their photo is how to pull up the scan code. It can be more time consuming for the user, especially a novice user, to try and figure out these functions when trying to complete a transaction, because it was not clear enough.
 
-**#8: Aesthetic and minimalist design
+__#8: Aesthetic and minimalist design__
+> Venmo: Evaluation - 1
+>> _Good_ -  The color scheme is consistent; the blue and white from the app icon is the same blue and white that shows up in the app. There are no distracting background colors; the header is blue, the screen is white, and the writing is in black and grey (and green and red for amounts). The visuals support the user goals and communicate function.
+>
 
-Example: bad background design
 
 **#9: Help users recognize, diagnose, and recover from errors
 
