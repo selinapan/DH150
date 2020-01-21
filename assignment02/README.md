@@ -8,6 +8,4 @@ The purpose of this usability testing is to measure the usability of Venmo and t
 
 [Screen Recording](https://drive.google.com/file/d/1idF9ovIxsKBt8qOF0iPcx6f6wI9e7yPA/view?usp=sharing)
 
-One paragraph describing what you learned during the pilot test, what went well and what went not so well, focusing on how you want to improve your UT in the future.
-
-
+During the pilot test, I realized some parts of my google form survey were not entirely correct. For example, I left some text as a description when I didn't mean to and I missed the "Agree" column for one question. These mistakes were careless, but probably due to the fact that I worked on this while I had the flu so I was not as detail oriented. Additionally, my test user was my mom, and while she is a user of Venmo, I believe the target audience is more people my age. I went home because I was sick so I could not ask anyone else to do it. In the future I will make sure to improve these materials. The video was easy to do on the computer, and I added sound to the screen record just in case something went wrong with the video. There were no issues in recording or going through the UT process. 
