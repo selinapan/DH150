@@ -4,7 +4,7 @@
 My project aims to make exchanging money amongst friends or strangers even easier. Currently, there are several forms of transaction, such as ApplePay, PayPal, Venmo, check, credit cards, and cash. I want to make Venmo more efficient, as I think it has the potential to be the most common form of exchanging money. One limitation provided by Venmo is that users must rely on their bank funds, if there is no money in their account. This can be a hassle when a user is trying to pay back a friend and realizes that they actually do not have enough funds; they must transfer money from their bank or go find cash. Additionally, technology may not always be reliable; if there is a bug or hack into Venmo, users may lose their money. According to Maslow's Hierarchy of Needs, this would be a safety need because this constitutes financial security.
 
 ## Step02
-
+sdfsd
 Step02: Target users 
 What are the characteristics of users? (ex. demographics, preference, expertise) 
 Where would the users do that activity?
