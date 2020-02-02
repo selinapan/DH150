@@ -7,36 +7,14 @@ My project aims to make exchanging money amongst friends or strangers even easie
 Users are typically young adults and adults, ranging from high school to middle adged. All genders and races will find use in this product. It is family friendly, easy to use, and incredibly useful. There is no requirement of occupation or education to use this application. However, users do need a smartphone that can support the application and have money in their account to participate in payment transactions. At least 2 people need to be involved in a transaction. The most common uses of this application are going out to eat or selling/buying something from another person. Large businesses do not tend to use this transaction, but when, for example, a student user is looking to buy a used textbook for $50 from another student, Venmo is a common means to exchange money for product. Groups of friends may also go out to lunch or dinner together, and one person will pay for the check with their credit card, while the other friends will Venmo the payer their share of the bill. This is more efficient than asking to split the bill or trying to calculate exactly how much cash to leave. Thus, users may use this application outside, at restaurants or businesses, or at home alone. The two people do not need to be in the vicinity of each other to make payments, requests, or reminders. A user can be aware that they owe their friend $30, and pay their friend back whenever is best. If they need to transfer funds into their Venmo, they can do it, or if they've had a busy day, they can pay their friend back whenever is convenient. 
 
 ### Step03
-[Interview Script](https://docs.google.com/document/d/1hI4xDX4BHegPju5R46Zplya-B463EnA9a4afP_5VKSs/edit#heading=h.eai36487ovki)
+As a user of Venmo myself, I've noticed that when I cover the bill for my friends, I will save the receipt and calculate the cost owed later. This is because I don't want to disrupt the dynamic of the group, as pausing to all get our phones out to Venmo immediately defeats the purpose of Venmo's ease of transaction. Since I think that Venmo is used alone in regards to group transactions, I decided not to go out to observe people at restaurants. Thus, I decided to interview someone to see how they go about their monetary transactions. I will collect user data via voice recordings of interviews. I have observed a college student in their dorm, after returning from an day outing with friends.
+[Interview Script](https://docs.google.com/document/d/1hI4xDX4BHegPju5R46Zplya-B463EnA9a4afP_5VKSs/edit?usp=sharing)
 
 ### Step04
-Step04: Plan to get into the context & write down the observation/ interview guide 
-Decide where to visit
-Decide what activities to observe/ what to ask to do
-Decide how to interact with the users 
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the interview guide (refer)
-
+[Audio](https://drive.google.com/open?id=16czrSESI0u__VXhz7kF5hqcDepUwb06q)
 
 ### Step05
-Step05: Conduct the research
-Visit the place
-Meet/Observe people/person
-Collect the data
+[Interview Transcript/Dialogue](https://docs.google.com/document/d/17kl6_iOw6BnnEUgdCGvrAGf8da4iWcqTX6ixnCTT-Ho/edit?usp=sharing)
 
 ### Step06
-Step06: Organize/Documentation
-In github (sub)repository assignment5, create one document (either README.md or .html)
-Describe your project design challenge + target user (step1+2)
-Describe your research methods and plan (step3)
-Provide a link to your interview/observation guide (step4) 
-Digitize your notes (scan/photo) and upload your data to github
-Provide a link to your representative data file(s) (step5)
-Provide a link to the transcript your interview (or meaningful dialogues/ talk-alouds during observation) 
-Write a reflection
-
-
-
-
-
-
+Reflection: During the interview, I realized some of my questions were quite similar. I think since I have an opinion already, some of my questions could have been slightly biased. In a real situation, these questions would probably have been better formed. I did see a fellow college student think through questions regarding money similarly to me though, so I still think I am on the right track. I also think that the more interviews I conduct, the better my interview skills will be. I was nervous to do this audio recording, and I could have been more confident in asking the user questions. Overall, this was a good experience and I learned valuable information for my project and was able to reflect on how to be a better interviewer in the future.
