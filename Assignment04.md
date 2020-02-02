@@ -7,9 +7,7 @@ My project aims to make exchanging money amongst friends or strangers even easie
 Users are typically young adults and adults, ranging from high school to middle adged. All genders and races will find use in this product. It is family friendly, easy to use, and incredibly useful. There is no requirement of occupation or education to use this application. However, users do need a smartphone that can support the application and have money in their account to participate in payment transactions. At least 2 people need to be involved in a transaction. The most common uses of this application are going out to eat or selling/buying something from another person. Large businesses do not tend to use this transaction, but when, for example, a student user is looking to buy a used textbook for $50 from another student, Venmo is a common means to exchange money for product. Groups of friends may also go out to lunch or dinner together, and one person will pay for the check with their credit card, while the other friends will Venmo the payer their share of the bill. This is more efficient than asking to split the bill or trying to calculate exactly how much cash to leave. Thus, users may use this application outside, at restaurants or businesses, or at home alone. The two people do not need to be in the vicinity of each other to make payments, requests, or reminders. A user can be aware that they owe their friend $30, and pay their friend back whenever is best. If they need to transfer funds into their Venmo, they can do it, or if they've had a busy day, they can pay their friend back whenever is convenient. 
 
 ### Step03
-Step03: Pick an observation method (or a combination of methods) 
-Interview with direct / Passive / Participatory observation* (recommended)
-Or something you learned on your own (refer the field guideline by IDEO)
+[Interview Script](https://docs.google.com/document/d/1hI4xDX4BHegPju5R46Zplya-B463EnA9a4afP_5VKSs/edit#heading=h.eai36487ovki)
 
 ### Step04
 Step04: Plan to get into the context & write down the observation/ interview guide 
