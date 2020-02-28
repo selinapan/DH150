@@ -1,12 +1,21 @@
 # Assignment09 #
 
 ## Description ##
-This project aims to add useful functions to Venmo and improve the user interface. As a college student, I use Venmo a lot in transactions with friends and strangers. There are great existing functions, but the app is unable to perform tasks like charging or paying  
+This project aims to add useful functions to Venmo (an application that makes handling finances and transactions easier) and 
+improve the user interface.  As a college student, I use Venmo a lot in transactions with friends and strangers. There are 
+great existing functions, but the app is unable to perform tasks like charging or paying multiple people at once, recording a
+receipt and who bought what item, and an easier way to visualize spending. Thus, this prototype aims to solve those three 
+tasks as the purpose of this high-fidelity prototype is to create a interactive,functioning version of the product. First, I 
+created a wireframe and wireflow, then learned how to use Adobe XD and installed a toolkit to achieve a more realistic iPhone 
+look, and then digitized my wireframe and flow. By linking certain buttons, the prototype is interactive. Careful design and 
+detail allows the application to appear as if it were reallistically being run on an iPhone. Then, I had a user do a test run,
+to see if the three tasks worked and no dead ends were hit.
 
 +1: Brief summary of the project, the process and the purpose of this high-fidelity prototype; the tasks the prototype demonstrates.
 
 ## Graphic Design ##
-
+![PrototypeFrame](/images/PrototypeFrames.png)
+PrototypeFrames.png
 
 +1:  At least three distinctive screen designs that represent user-interface design with standard graphical components (ex. Material ui component)
 +1: Thoughtful description about how you made the decisions for the graphical interface design (ex. Color scheme).
