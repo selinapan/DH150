@@ -39,5 +39,6 @@ to see if the three tasks worked and no dead ends were hit.
 >> [User Test1](https://drive.google.com/file/d/1FPNGEfUr4RwCd43y0HqQblRkRFjHpfK6/view?usp=sharing)
 >
 >> [Screen Recording](https://drive.google.com/file/d/1kJi4dU7tZp6b4ZX4nkTMbja5UPelc9OY/view?usp=sharing)
-
-+ 1 Fixed the end of the last task because it was a dead end.
+>
+>> 
+1 Fixed the end of the last task because it was a dead end.
