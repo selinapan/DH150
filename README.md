@@ -15,6 +15,13 @@ to see if the three tasks worked and no dead ends were hit.
 >> ![PrototypeFrames](https://github.com/selinapan/DH150/blob/master/Assignment09/PrototypeFrames.png)
 >>
 > 
+more opaque background when stuff pops up
+white and blue did not have a high enough contrast so i went with a darker blue provided by a toolkit
+i liked the white & blue and shades of grey because it is not too much color and very clean
+gains and losses represented by green and red because it makes natural sense
+i coded pay as green and request as red because it made sense and i talked to some other peers and they agreed that that makes natural sense, but the reverse might make more logical sense. perhaps they shouldnt be color coded, but i wanted a way to distinguish between the two buttons, as i ahve often pressed the wrong one.
+i used a tool kit to make it more realistically like an iPhone 
+the icons i used were from noun project and chose simple ones that would be easily recognized
 
 +1: Thoughtful description about how you made the decisions for the graphical interface design (ex. Color scheme).
 
@@ -40,5 +47,9 @@ to see if the three tasks worked and no dead ends were hit.
 >
 >> [Screen Recording](https://drive.google.com/file/d/1kJi4dU7tZp6b4ZX4nkTMbja5UPelc9OY/view?usp=sharing)
 >
->> 
-1 Fixed the end of the last task because it was a dead end.
+>> At the end of the last task, my prototype hit a dead end, so I fixed that by adding another frame and redoing a couple of the arrow links.
+>>> Prototype Version 1
+>>>> ![Prototype1](https://github.com/selinapan/DH150/blob/master/Assignment09/Prototype1.png)
+>
+>>> Prototype Version 2
+>>>> ![Prototype2](https://github.com/selinapan/DH150/blob/master/Assignment09/Prototype2.png)
