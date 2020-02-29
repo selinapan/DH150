@@ -12,18 +12,19 @@ detail allows the application to appear as if it were reallistically being run o
 to see if the three tasks worked and no dead ends were hit.
 
 ## Graphic Design ##
-![PrototypeFrame](/Assignment09/PrototypeFrames.png)
- ![Alt Text](https://github.com/selinapan/DH150/blob/master/Assignment09/PrototypeFrames.png)
+![PrototypeFrames](/images/PrototypeFrames.png)
+![PrototypeFrames](https://github.com/selinapan/DH150/blob/master/Assignment09/PrototypeFrames.png)
+
 +1:  At least three distinctive screen designs that represent user-interface design with standard graphical components (ex. Material ui component)
 +1: Thoughtful description about how you made the decisions for the graphical interface design (ex. Color scheme).
 
 ## Wireflow ##
+![GitHub Logo](/images/logo.png)
 
 
 +1: At least one sequence of the user interaction flow was presented with screen designs with and arrow_lines 
 +1: Complete interaction sequences for the three features were clearly presented in the wireflow with screen designs
 
-![GitHub Logo](/images/logo.png)
 
 ## Prototype URL ##
 
