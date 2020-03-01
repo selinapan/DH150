@@ -14,18 +14,8 @@ to see if the three tasks worked and no dead ends were hit.
 > Prototype Frames:
 >> ![PrototypeFrames](https://github.com/selinapan/DH150/blob/master/Assignment09/PrototypeFrames.png)
 >>
-> The audit task last week showed that Venmo's blue and white was not enough contrast. Thus, I switched to a darkre blue; I found the color on one of the iOS ui toolkits. I wanted to keep the overall color scheme as blue and white, as blue indicates trustworthiness, stability, and loyalty. In order to not have too many distracting colors, I stuck with black and grey for icons and text as it provides a very clean look. I used red and green, also provided in the toolkit, to indicate losses and gains, respectively. This makes natural sense, with red indicating negative and green indicating positive. I indicated pay and request as green and red, respectively. When talking to other peers (potential users), we all agreed that this made the most natural sense to us, despite "pay" technically meaning the user is losing money. The reason I wanted to distinguish between the two is because I have often pressed the wrong buttons since they were color coded the same. 
-
-more opaque background when stuff pops up
-white and blue did not have a high enough contrast so i went with a darker blue provided by a toolkit
-i liked the white & blue and shades of grey because it is not too much color and very clean
-gains and losses represented by green and red because it makes natural sense
-i coded pay as green and request as red because it made sense and i talked to some other peers and they agreed that that makes natural sense, but the reverse might make more logical sense. perhaps they shouldnt be color coded, but i wanted a way to distinguish between the two buttons, as i ahve often pressed the wrong one.
-i used a tool kit to make it more realistically like an iPhone 
-the icons i used were from noun project and chose simple ones that would be easily recognized
-
-+1: Thoughtful description about how you made the decisions for the graphical interface design (ex. Color scheme).
-
+> The audit task last week showed that Venmo's blue and white was not enough contrast. Thus, I switched to a darkre blue; I found the color on one of the iOS ui toolkits. I wanted to keep the overall color scheme as blue and white, as blue indicates trustworthiness, stability, and loyalty. In order to not have too many distracting colors, I stuck with black and grey for icons and text as it provides a very clean look. I used red and green, also provided in the toolkit, to indicate losses and gains, respectively. This makes natural sense, with red indicating negative and green indicating positive. I indicated pay and request as green and red, respectively. When talking to other peers (potential users), we all agreed that this made the most natural sense to us, despite "pay" technically meaning the user is losing money. The reason I wanted to distinguish between the two is because I have often pressed the wrong buttons since they were color coded the same. When messages pop up, such as cancel confirmation, success, or adding a caption, I chose to make the background more opaque, to show off the message more. This way, the user is drawn to the error message, confirmation, or success. Finally, I used icons from the Noun Project and chose ones that were simple and easily recognized.
+>
 ## Wireflow ##
 > Task1 Previous Transactions:
 >> ![Task1 Previous Transactions](https://github.com/selinapan/DH150/blob/master/Assignment09/Task1_PreviousTransactions.png)
