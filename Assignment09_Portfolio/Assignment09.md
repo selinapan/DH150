@@ -1,5 +1,6 @@
 # Venmo
 ## Selina Pan
+>> ![Rubric Link](https://docs.google.com/document/d/1btlTJ4O3vTVC_oZBR0vBykiYGT0_3Jxn26BaGNcndQ0/edit)
 ### Intro
 What is the project about? The motivation of the project and possible contribution.
 ### Design Statement
