@@ -2,13 +2,23 @@
 ## Selina Pan
 >> [Rubric Link](https://docs.google.com/document/d/1btlTJ4O3vTVC_oZBR0vBykiYGT0_3Jxn26BaGNcndQ0/edit)
 ### Intro
-> This project is about finding an easier way to handle finances, transactions, and budgeting easier. As a college student, I am interested in saving money, quickly paying my friends back or being paid back, and seeing how much money I have left to spend that day, week, month, or year. This application allows for all of these tasks to happen in one place rather than multiple apps or spreadsheet, making it easy to keep track of everything. The functions of this application cater to anyone looking for a simple way to record finances and transact money.
+This project is about finding an easier way to handle finances, transactions, and budgeting easier. As a college student, I am interested in saving money, quickly paying my friends back or being paid back, and seeing how much money I have left to spend that day, week, month, or year. This application allows for all of these tasks to happen in one place rather than multiple apps or spreadsheet, making it easy to keep track of everything. The functions of this application cater to anyone looking for a simple way to record finances and transact money.
 >
 ### Design Statement
-> Currently, Venmo is a smartphone application that allows people to transact money. Thus, as long as people have money in their account, people can go out without any cash or coins. There are many advantages to Venmo, such as paying or requesting someone exact cents and transfer money in or out of their bank account to their Venmo account, but there are some functions missing that would make the application more useful and efficient. For example, there is no way to see a sum of what you've paid versus requested, every transaction is its own separate entity. Additionally, it would be helpful to be able to record a picture of a receipt, rather than having a stack of receipts somewhere in a drawer. Finally, there should be a way that allows a user to charge the same amount to multiple people at once, rather than tediously repeating a pay or request to five people. The social aspect of Venmo seems to take away from the purpose of the application, so making the home screen centered on the user would be beneficial to helping the user see their finances. Rearranging some of the features to better serve user's needs and adding these functions would increase the usability and efficiency of Venmo.
+Currently, Venmo is a smartphone application that allows people to transact money. Thus, as long as people have money in their account, people can go out without any cash or coins. There are many advantages to Venmo, such as paying or requesting someone exact cents and transfer money in or out of their bank account to their Venmo account, but there are some functions missing that would make the application more useful and efficient. For example, there is no way to see a sum of what you've paid versus requested, every transaction is its own separate entity. Additionally, it would be helpful to be able to record a picture of a receipt, rather than having a stack of receipts somewhere in a drawer. Finally, there should be a way that allows a user to charge the same amount to multiple people at once, rather than tediously repeating a pay or request to five people. The social aspect of Venmo seems to take away from the purpose of the application, so making the home screen centered on the user would be beneficial to helping the user see their finances. Rearranging some of the features to better serve user's needs and adding these functions would increase the usability and efficiency of Venmo.
 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
-### Competitor analysis [assignment01 & 02]:
+### Competitor analysis: Heuristic Evaluation
+I chose to focus my project on the finance and banking community, because Venmo and Wescom are apps that I personally use a lot. These applications are useful to anyone with a bank account, probably high schoolers and older.  I aim to recognize, detect, and analyze both applications following Jakob Nielsen’s 10 Usability Heuristics for User Interface Design to identify usability problems.
+> [read more...](https://github.com/selinapan/DH150/blob/master/Assignment01.md)
+
+Venmo             |  Wescom
+:-------------------------:|:-------------------------:
+![Venmo App](https://camo.githubusercontent.com/fcd7458109fef0f2e2d9a25d6546d310632e42a3/68747470733a2f2f333837623732697671317a336d6e69306e32363179376c312d7770656e67696e652e6e6574646e612d73736c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30372f312d312e706e67)   |  ![Wescom App](https://wescom.org/newsletters/touchpoints/2015-07/images/iphone.jpg)
+
+### Competitor analysis: Usability testing
+
+<video src="https://drive.google.com/open?id=1xbc6chYynR2qCohl9-UasBfecfuEmBF0" width="320" height="200" controls preload></video>
+
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
