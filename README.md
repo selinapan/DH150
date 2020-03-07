@@ -50,6 +50,7 @@ Summary and link to your assignment folder
   <tr>
     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%201.png" height="300px"> </td>
      <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%202.png" height="300px"> </td>
+     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%203.png" height="300px"> </td>
   </tr>
 </table>
 ### Low-fidelity prototype (wireflow, assignment07)
