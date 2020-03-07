@@ -13,14 +13,10 @@ I chose to focus my project on the finance and banking community, because Venmo 
 
 <table>
   <tr>
-    <td> <img src="https://user-images.githubusercontent.com/59623164/72333123-27c9e000-3670-11ea-9109-1c60d09c0a48.png" height="300px"> </td>
-     <td> <img src="https://user-images.githubusercontent.com/59623164/72333771-382e8a80-3671-11ea-98cc-73a1affb15c5.png" height="300px"> </td>
+    <td> <img src="https://camo.githubusercontent.com/fcd7458109fef0f2e2d9a25d6546d310632e42a3/68747470733a2f2f333837623732697671317a336d6e69306e32363179376c312d7770656e67696e652e6e6574646e612d73736c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30372f312d312e706e67" height="300px"> </td>
+     <td> <img src="https://wescom.org/newsletters/touchpoints/2015-07/images/iphone.jpg" height="300px"> </td>
   </tr>
 </table>
-
-Venmo             |  Wescom
-:-------------------------:|:-------------------------:
-![Venmo App](https://camo.githubusercontent.com/fcd7458109fef0f2e2d9a25d6546d310632e42a3/68747470733a2f2f333837623732697671317a336d6e69306e32363179376c312d7770656e67696e652e6e6574646e612d73736c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30372f312d312e706e67)   |  ![Wescom App](https://wescom.org/newsletters/touchpoints/2015-07/images/iphone.jpg)
 
 ### Competitor analysis: Usability testing
 I conducted a usability test to measure the usability of Venmo and to observe a user perform real tasks that the app is meant for. I wanted to understand a user's thought process when attempting different tasks and to measure the easiness and efficiency of Venmo. Specifically, I wanted to hear the thought process of another user when navigating Venmo to check basic information, calculate the bill on Venmo, and try to pay multiple people at once.
