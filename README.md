@@ -24,8 +24,10 @@ During this process, I learned some complications that a real user of Venmo expe
 
 [![Alternate Text]({image-url})]({video-url} "Link Title")
 
-### User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+### User research [contextual inquiry]:
+This project will support user's financial needs, such as handling  budgeting and transactions. Current solutions satisfy basic transactions, but can be remade to be more efficient and expand to fit other uses. The features I want to add stem from my own use by myself and with friends. For this task, I interviewed a college student to better understand her needs and expectations from the app, so that I could evaluate what needed to be changed.
+[read more...](https://github.com/selinapan/DH150/blob/master/Assignment04.md)
+
 ### UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
 ### Wireframe and graphic design element variation [assignment07 + part of 08]
