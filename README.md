@@ -68,9 +68,6 @@ SUMMARY
 </table>
 
 >
->
-[read more...](https://docs.google.com/document/d/1d9vJNG3sxoD5n1QBL3iTTkhd6Cx2BerpRmcqjYZYM6o/edit)
->
 ![Wireflow 1](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%201.png)
 ![Wireflow 2](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%202.png)
 
