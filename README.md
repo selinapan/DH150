@@ -6,7 +6,7 @@ This project is about finding an easier way to handle finances, transactions, an
 >
 ### Design Statement
 Currently, Venmo is a smartphone application that allows people to transact money. Thus, as long as people have money in their account, people can go out without any cash or coins. There are many advantages to Venmo, such as paying or requesting someone exact cents and transfer money in or out of their bank account to their Venmo account, but there are some functions missing that would make the application more useful and efficient. For example, there is no way to see a sum of what you've paid versus requested, every transaction is its own separate entity. Additionally, it would be helpful to be able to record a picture of a receipt, rather than having a stack of receipts somewhere in a drawer. Finally, there should be a way that allows a user to charge the same amount to multiple people at once, rather than tediously repeating a pay or request to five people. The social aspect of Venmo seems to take away from the purpose of the application, so making the home screen centered on the user would be beneficial to helping the user see their finances. Rearranging some of the features to better serve user's needs and adding these functions would increase the usability and efficiency of Venmo.
-
+>
 ### Competitor analysis: Heuristic Evaluation
 I chose to focus my project on the finance and banking community, because Venmo and Wescom are apps that I personally use a lot. These applications are useful to anyone with a bank account, probably high schoolers and older.  I aim to recognize, detect, and analyze both applications following Jakob Nielsen’s 10 Usability Heuristics for User Interface Design to identify usability problems.
 > [read more...](https://github.com/selinapan/DH150/blob/master/Assignment01.md)
@@ -17,7 +17,7 @@ I chose to focus my project on the finance and banking community, because Venmo 
      <td> <img src="https://wescom.org/newsletters/touchpoints/2015-07/images/iphone.jpg" height="300px"> </td>
   </tr>
 </table>
-
+>
 ### Competitor analysis: Usability testing
 I conducted a usability test to measure the usability of Venmo and to observe a user perform real tasks that the app is meant for. I wanted to understand a user's thought process when attempting different tasks and to measure the easiness and efficiency of Venmo. Specifically, I wanted to hear the thought process of another user when navigating Venmo to check basic information, calculate the bill on Venmo, and try to pay multiple people at once.
 
@@ -30,7 +30,7 @@ During this process, I learned some complications that a real user of Venmo expe
 ### User research [contextual inquiry]:
 This project will support user's financial needs, such as handling  budgeting and transactions. Current solutions satisfy basic transactions, but can be remade to be more efficient and expand to fit other uses. The features I want to add stem from my own use by myself and with friends. For this task, I interviewed a college student to better understand her needs and expectations from the app, so that I could evaluate what needed to be changed.
 [read more...](https://github.com/selinapan/DH150/blob/master/Assignment04.md)
-
+>
 ### UX storytelling [persona+scenario]
 summary fsjflsfjds
 
@@ -64,7 +64,8 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 ![High fidelity Prototype](https://github.com/selinapan/DH150/blob/master/Images/Prototype2.png)
 
 Summary statement and link to or an embedded prototype
-### [Optional evaluation and revision history]
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
-### Pitch video 
+>
+### Pitch video
+>
 ### Conclusion: what did you learn throughout the process?
+>
