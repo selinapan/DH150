@@ -32,7 +32,9 @@ This project will support user's financial needs, such as handling  budgeting an
 [read more...](https://github.com/selinapan/DH150/blob/master/Assignment04.md)
 >
 ### UX storytelling [persona+scenario]
-summary fsjflsfjds
+SUMMARY
+>
+[read more...](https://docs.google.com/presentation/d/1XBemjvncqEgdHHZ5YDSxc0d9lTV6P5X-fe09RRontus/edit#slide=id.p)
 
 <table>
   <tr>
@@ -45,6 +47,10 @@ summary fsjflsfjds
 Summary and link to your assignment folder
 >
 ### Wireframe and graphic design element variation
+SUMMARY
+>
+[read more...](https://docs.google.com/document/d/1d9vJNG3sxoD5n1QBL3iTTkhd6Cx2BerpRmcqjYZYM6o/edit)
+
 ![Wireframe 1](https://github.com/selinapan/DH150/blob/master/Images/Wireframe%201.png)
 >
 <table>
@@ -55,12 +61,19 @@ Summary and link to your assignment folder
 </table>
 >
 ### Low-fidelity prototype (wireflow)
+SUMMARY
+>
+[read more...](https://docs.google.com/document/d/1d9vJNG3sxoD5n1QBL3iTTkhd6Cx2BerpRmcqjYZYM6o/edit)
+>
 ![Wireflow 1](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%201.png)
 ![Wireflow 2](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%202.png)
 
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 >
 ### High-fidelity prototype (functional/interactive prototype)
+SUMMARY
+>
+[read more...](https://github.com/selinapan/DH150/blob/master/Assignment08.md)
 ![High fidelity Prototype](https://github.com/selinapan/DH150/blob/master/Images/Prototype2.png)
 
 Summary statement and link to or an embedded prototype
