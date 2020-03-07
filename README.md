@@ -53,11 +53,16 @@ Summary and link to your assignment folder
      <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%203.png" height="300px"> </td>
   </tr>
 </table>
-### Low-fidelity prototype (wireflow, assignment07)
+>
+### Low-fidelity prototype (wireflow)
+![Wireflow 1](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%201.png)
+![Wireflow 2](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%202.png)
 
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+>
+### High-fidelity prototype (functional/interactive prototype)
+![High fidelity Prototype](https://github.com/selinapan/DH150/blob/master/Images/Prototype2.png)
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 ### [Optional evaluation and revision history]
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
