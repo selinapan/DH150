@@ -33,15 +33,25 @@ This project will support user's financial needs, such as handling  budgeting an
 
 ### UX storytelling [persona+scenario]
 summary fsjflsfjds
-![Jessica Chan Persona](https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Persona.png)
-![Jessica Chan Empathy Map](https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Empathy%20Map.png)
+
+<table>
+  <tr>
+    <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Persona.png" height="300px"> </td>
+     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Empathy%20Map.png" height="300px"> </td>
+  </tr>
+</table>
+
 ![Jessica Chan Scenario](https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Scenario.png)
 Summary and link to your assignment folder
 >
 ### Wireframe and graphic design element variation
-![Wireframe 1](https://github.com/selinapan/DH150/blob/master/Images/Wireframe%201.png)
-![Wireframe 2](https://github.com/selinapan/DH150/blob/master/Images/Wireframe%202.png)
 
+<table>
+  <tr>
+    <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%201.png" height="300px"> </td>
+     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%202.png" height="300px"> </td>
+  </tr>
+</table>
 ### Low-fidelity prototype (wireflow, assignment07)
 
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
