@@ -31,7 +31,9 @@ During this process, I learned some complications that a real user of Venmo expe
 This project will support user's financial needs, such as handling  budgeting and transactions. Current solutions satisfy basic transactions, but can be remade to be more efficient and expand to fit other uses. The features I want to add stem from my own use by myself and with friends. For this task, I interviewed a college student to better understand her needs and expectations from the app, so that I could evaluate what needed to be changed.
 [read more...](https://github.com/selinapan/DH150/blob/master/Assignment04.md)
 >
+
 ### UX storytelling [persona+scenario]
+
 SUMMARY
 >
 [read more...](https://docs.google.com/presentation/d/1XBemjvncqEgdHHZ5YDSxc0d9lTV6P5X-fe09RRontus/edit#slide=id.p)
@@ -46,7 +48,12 @@ SUMMARY
 ![Jessica Chan Scenario](https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Scenario.png)
 Summary and link to your assignment folder
 >
+
 ### Wireframe and graphic design element variation
+>
+#### Low-fidelity prototype (wireflow)
+
+
 SUMMARY
 >
 [read more...](https://docs.google.com/document/d/1d9vJNG3sxoD5n1QBL3iTTkhd6Cx2BerpRmcqjYZYM6o/edit)
@@ -59,9 +66,8 @@ SUMMARY
      <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%203.png" height="500px"> </td>
   </tr>
 </table>
+
 >
-### Low-fidelity prototype (wireflow)
-SUMMARY
 >
 [read more...](https://docs.google.com/document/d/1d9vJNG3sxoD5n1QBL3iTTkhd6Cx2BerpRmcqjYZYM6o/edit)
 >
