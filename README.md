@@ -11,6 +11,13 @@ Currently, Venmo is a smartphone application that allows people to transact mone
 I chose to focus my project on the finance and banking community, because Venmo and Wescom are apps that I personally use a lot. These applications are useful to anyone with a bank account, probably high schoolers and older.  I aim to recognize, detect, and analyze both applications following Jakob Nielsen’s 10 Usability Heuristics for User Interface Design to identify usability problems.
 > [read more...](https://github.com/selinapan/DH150/blob/master/Assignment01.md)
 
+<table>
+  <tr>
+    <td> <img src="https://user-images.githubusercontent.com/59623164/72333123-27c9e000-3670-11ea-9109-1c60d09c0a48.png" height="300px"> </td>
+     <td> <img src="https://user-images.githubusercontent.com/59623164/72333771-382e8a80-3671-11ea-98cc-73a1affb15c5.png" height="300px"> </td>
+  </tr>
+</table>
+
 Venmo             |  Wescom
 :-------------------------:|:-------------------------:
 ![Venmo App](https://camo.githubusercontent.com/fcd7458109fef0f2e2d9a25d6546d310632e42a3/68747470733a2f2f333837623732697671317a336d6e69306e32363179376c312d7770656e67696e652e6e6574646e612d73736c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30372f312d312e706e67)   |  ![Wescom App](https://wescom.org/newsletters/touchpoints/2015-07/images/iphone.jpg)
@@ -20,9 +27,9 @@ I conducted a usability test to measure the usability of Venmo and to observe a 
 
 During this process, I learned some complications that a real user of Venmo experiences and what she would like to see to improve these issues. My participant was unable to charge the same amount to multiple people at once and expressed how it would be more efficient and convenient if Venmo were to have this function. Some basic features are not as noticeables as they should be. For example, there are basic calculator functions on Venmo, but often times users overlook the buttons and open a separate calculator app. She expressed how she liked the current app, but would like to see improvement.
 
-> [![Assignment02]({https://github.com/selinapan/DH150/blob/master/Images/Usability%20testing.png})]({https://drive.google.com/open?id=1xbc6chYynR2qCohl9-UasBfecfuEmBF0} "DH150_Assign02.mov")
-
-[![Alternate Text]({image-url})]({video-url} "Link Title")
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1xbc6chYynR2qCohl9-UasBfecfuEmBF0/preview" width="640" height="480"></iframe>
+</figure>
 
 ### User research [contextual inquiry]:
 This project will support user's financial needs, such as handling  budgeting and transactions. Current solutions satisfy basic transactions, but can be remade to be more efficient and expand to fit other uses. The features I want to add stem from my own use by myself and with friends. For this task, I interviewed a college student to better understand her needs and expectations from the app, so that I could evaluate what needed to be changed.
