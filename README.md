@@ -55,8 +55,8 @@ SUMMARY
 >
 <table>
   <tr>
-     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%20pt2.png" height="300px"> </td>
-     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%203.png" height="300px"> </td>
+     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%20pt2.png" height="500px"> </td>
+     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%203.png" height="500px"> </td>
   </tr>
 </table>
 >
