@@ -8,7 +8,7 @@ Currently, Venmo is a smartphone application that allows people to transact mone
 
 ### Competitor analysis: Heuristic Evaluation
 I chose to focus my project on the finance and banking community, because Venmo and Wescom are apps that I personally use a lot. These applications are useful to anyone with a bank account, probably high schoolers and older.  I aim to recognize, detect, and analyze both applications following Jakob Nielsen’s 10 Usability Heuristics for User Interface Design to identify usability problems.
-> [read more...](https://github.com/selinapan/DH150/blob/master/Assignment01.md)
+[read more...](https://github.com/selinapan/DH150/blob/master/Assignment01.md)
 
 <table>
   <tr>
@@ -21,6 +21,7 @@ I chose to focus my project on the finance and banking community, because Venmo 
 I conducted a usability test to measure the usability of Venmo and to observe a user perform real tasks that the app is meant for. I wanted to understand a user's thought process when attempting different tasks and to measure the easiness and efficiency of Venmo. Specifically, I wanted to hear the thought process of another user when navigating Venmo to check basic information, calculate the bill on Venmo, and try to pay multiple people at once.
 
 During this process, I learned some complications that a real user of Venmo experiences and what she would like to see to improve these issues. My participant was unable to charge the same amount to multiple people at once and expressed how it would be more efficient and convenient if Venmo were to have this function. Some basic features are not as noticeables as they should be. For example, there are basic calculator functions on Venmo, but often times users overlook the buttons and open a separate calculator app. She expressed how she liked the current app, but would like to see improvement.
+[read more...](https://github.com/selinapan/DH150/blob/master/Assignment01.md)
 
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1xbc6chYynR2qCohl9-UasBfecfuEmBF0/preview" width="640" height="480"></iframe>
