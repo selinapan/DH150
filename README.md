@@ -27,11 +27,10 @@ During this process, I learned some complications that a real user of Venmo expe
   <iframe src="https://drive.google.com/file/d/1xbc6chYynR2qCohl9-UasBfecfuEmBF0/preview" width="640" height="480"></iframe>
 </figure>
 
-<!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line →>
+
 
 
 ### User research [contextual inquiry]:
