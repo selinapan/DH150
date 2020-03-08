@@ -25,8 +25,7 @@ During this process, I learned some complications that a real user of Venmo expe
 
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1xbc6chYynR2qCohl9-UasBfecfuEmBF0/preview" width="640" height="480"></iframe>
-</figure>
-
+</figure>  
 ### User research [contextual inquiry]:
 This project will support user's financial needs, such as handling  budgeting and transactions. Current solutions satisfy basic transactions, but can be remade to be more efficient and expand to fit other uses. The features I want to add stem from my own use by myself and with friends. For this task, I interviewed a college student to better understand her needs and expectations from the app, so that I could evaluate what needed to be changed.
 [read more...](https://github.com/selinapan/DH150/blob/master/Assignment04.md)
@@ -71,7 +70,7 @@ Finally, I used Adobe XD to bring the paper sketches to a digital, interactive p
 
 ### Pitch video
 <figure class="video_container">
-  <iframe src="https://drive.google.com/open?id=1bbNZ94-Twd9RziZQbdN9Wk5lBqBdnvLa/preview" width="640" height="480"></iframe>
+  <iframe src="https://drive.google.com/drive/u/1/folders/1YkEOlf7M4jTC7oZ5WjoPpuMhSDEmBdXN" width="640" height="480"></iframe>
 </figure>
 
 ### Conclusion: what did you learn throughout the process?
