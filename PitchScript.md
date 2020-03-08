@@ -22,18 +22,9 @@ that as you Create a Pitch you think about telling stories of varying lengths
 and in varying degrees of detail. What are the short, medium, and long
 versions of your pitch?
 
-This project is about finding an easier way to handle finances, transactions, and budgeting easier. Venmo allows you to pay and
-As a college student, I am interested in saving money, quickly paying my friends back or being paid back, and
-seeing how much money I have left to spend that day, week, month, or year. This application allows for all of these tasks 
-to happen in one place rather than multiple apps or spreadsheet, making it easy to keep track of everything. The functions
-of this application cater to anyone looking for a simple way to record finances and transact money.
+This project is about finding an easier way to handle finances, transactions, and budgeting easier. Venmo allows you to pay and request money without having to deal with cash. I was interested in expanding the features of Venmo to include a more efficient way to keep track of your money and paying and requesting people. One of the most common uses of Venmo is when a group of friends is going out to eat and one person covers the bill. Rather than sit there and calculate the bill, Venmo should be made more efficient, like charging multiple people the same amount at once and having a function to record the receipt and tag users to each item. Otherwise, you might as well have just brought cash to all cover your part or ask the waiter to split the bill because you're still just sitting at the table after the bill is paid. Also, Venmo can be improved to allow users to stay organized with their finances. Instead of having a spreadsheet tracking all the items you spent or money you got paid, it would be helpful to have a transaction history function in the app, not just the monthly email. This way, I can see a total of what I've spent or received within a day, week, month, or year, and view the spendings within that time frame. Currently, the app does not have any filters to organize your transactions, you would have to just keep scrolling to view something from a long time ago. 
 
+Designing the prototype took a few stages. First, I sketched wireframes on paper to visualize what the application should look like. Then, I solidified the 3 tasks that I wanted the application to accomplish: checking a day/week/month/or year transaction history and summary, paying or requesting multiple people at once, and recording a receipt. On paper, I created a wireflow chart connecting how the app should go from one page to another and what buttons or icons to include. Afterwards, I learned how to use Adobe XD and was able to digitize my wireframe and flow, making the application look like it was really being run on an iPhone XR. The prototype is functional and interactive.
 
-
-Venmo allows you to pay and request money from your friends. At its core, Venmo provides a social way to pay your 
-friends when you owe them money and don't want to deal with cash.Mar 1, 2020
-
-
-
-
+This is the home screen that a user will see when logged into the app. Our first task is checking a transation history. This can be done by clicking here or going through the side menu. As you can see, the user will be able to view their totla summary at a glance. You can also click on the icons to see more details. Next, we will see how to charge multiple people at once. Starting at the home screen again, the user would click this pen and paper icon and be able to easily choose multiple users here. If you would like to cancel, there is a double check if you really want to cancel. If you choose to pay or request, a caption is necessary, so the app will not let you continue forward until everything is filled out. Finally, the last task is to record a receipt. Starting at the home screen again, we would go through the side menu bar and see the instructions on how to use this function, and past receipts. Clicking on create new receipt, we are brought to a camera. We can cancel, retake, or use the photo. Then, we can tag other users on that receipt to remeber who ordered which itme. I hope this video was helpful and enjoyable, thank you for watching
 
