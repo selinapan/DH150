@@ -16,7 +16,7 @@ I chose to focus my project on the finance and banking community, because Venmo 
      <td> <img src="https://wescom.org/newsletters/touchpoints/2015-07/images/iphone.jpg" height="300px"> </td>
   </tr>
 </table>
->
+
 ### Competitor analysis: Usability testing
 I conducted a usability test to measure the usability of Venmo and to observe a user perform real tasks that the app is meant for. I wanted to understand a user's thought process when attempting different tasks and to measure the easiness and efficiency of Venmo. Specifically, I wanted to hear the thought process of another user when navigating Venmo to check basic information, calculate the bill on Venmo, and try to pay multiple people at once.
 
