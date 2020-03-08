@@ -33,9 +33,7 @@ This project will support user's financial needs, such as handling  budgeting an
 >
 
 ### UX storytelling [persona+scenario]
-
-SUMMARY
->
+The personas and scenarios were created to visualize what types of users would be using this application and what needs they would want satisfied. Thus, I created a Powerpoint slide of three hypothetical users, consisting of their demographics, needs and wants, and possible common situtations they might find themselves in.
 [read more...](https://docs.google.com/presentation/d/1XBemjvncqEgdHHZ5YDSxc0d9lTV6P5X-fe09RRontus/edit#slide=id.p)
 
 <table>
@@ -46,16 +44,9 @@ SUMMARY
 </table>
 
 ![Jessica Chan Scenario](https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Scenario.png)
-Summary and link to your assignment folder
->
 
-### Wireframe and graphic design element variation
->
-#### Low-fidelity prototype (wireflow)
-
-
-SUMMARY
->
+### Wireframe and graphic design element variation:
+First, I sketched five main wireframes on paper. These represented the five main screens I envisioned my application to have. When creating these, I kept in mind the three tasks that I wanted my application to accomplish - recording a receipt, paying or requesting multiple people at once, and seeing transaction history.
 [read more...](https://docs.google.com/document/d/1d9vJNG3sxoD5n1QBL3iTTkhd6Cx2BerpRmcqjYZYM6o/edit)
 
 ![Wireframe 1](https://github.com/selinapan/DH150/blob/master/Images/Wireframe%201.png)
@@ -67,20 +58,18 @@ SUMMARY
   </tr>
 </table>
 
->
+### Low-fidelity prototype (wireflow)
+Next, I sketched how these wireframes would interact to be able to do the three tasks, creating a wireflow on paper. These showed the possible interactions with the application, and later I had a user test the low-fidelity prototype.
+[read more...](https://docs.google.com/document/d/1d9vJNG3sxoD5n1QBL3iTTkhd6Cx2BerpRmcqjYZYM6o/edit)
+
 ![Wireflow 1](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%201.png)
 ![Wireflow 2](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%202.png)
 
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
->
 ### High-fidelity prototype (functional/interactive prototype)
-SUMMARY
->
+Finally, I used Adobe XD to bring the paper sketches to a digital, interactive prototype. I first had to learn how to navigate Adobe XD in order to create frames in the shape of an iPhone XR and download Adobe XD iOS ui kits to add parts that made the wireframes look more realistic. I also used the Noun Project in order to download and use icons that were simple and recognizable, like a search icon and settings icon. Then, I started to create the wireframes I had sketched on paper, and added more that I needed to run my three tasks. After I was satisfied with how my wireframes looked, I used Adobe XD's prototype function to link buttons to slides and create my wireflow. After everything I wanted was linked, I had a tester try the three tasks I set and discovered a dead end on one frame, which I later fixed. 
 [read more...](https://github.com/selinapan/DH150/blob/master/Assignment08.md)
 ![High fidelity Prototype](https://github.com/selinapan/DH150/blob/master/Images/Prototype2.png)
 
-Summary statement and link to or an embedded prototype
->
 ### Pitch video
 >
 ### Conclusion: what did you learn throughout the process?
