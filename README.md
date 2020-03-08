@@ -1,6 +1,5 @@
 # Venmo
 ## Selina Pan
->> [Rubric Link](https://docs.google.com/document/d/1btlTJ4O3vTVC_oZBR0vBykiYGT0_3Jxn26BaGNcndQ0/edit)
 ### Intro
 This project is about finding an easier way to handle finances, transactions, and budgeting easier. As a college student, I am interested in saving money, quickly paying my friends back or being paid back, and seeing how much money I have left to spend that day, week, month, or year. This application allows for all of these tasks to happen in one place rather than multiple apps or spreadsheet, making it easy to keep track of everything. The functions of this application cater to anyone looking for a simple way to record finances and transact money.
 >
@@ -26,16 +25,6 @@ During this process, I learned some complications that a real user of Venmo expe
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1xbc6chYynR2qCohl9-UasBfecfuEmBF0/preview" width="640" height="480"></iframe>
 </figure>
-
-
->
-
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-
 
 ### User research [contextual inquiry]:
 This project will support user's financial needs, such as handling  budgeting and transactions. Current solutions satisfy basic transactions, but can be remade to be more efficient and expand to fit other uses. The features I want to add stem from my own use by myself and with friends. For this task, I interviewed a college student to better understand her needs and expectations from the app, so that I could evaluate what needed to be changed.
@@ -80,6 +69,9 @@ Finally, I used Adobe XD to bring the paper sketches to a digital, interactive p
 ![High fidelity Prototype](https://github.com/selinapan/DH150/blob/master/Images/Prototype2.png)
 
 ### Pitch video
->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1bbNZ94-Twd9RziZQbdN9Wk5lBqBdnvLa/view?usp=sharing" width="640" height="480"></iframe>
+</figure>
+
 ### Conclusion: what did you learn throughout the process?
 I learned that there's a lot more that goes into the creation of applications and websites than I had previously thought. The process of deciding what's best for your users can be hard, as not all users value the same things. Deciding what to input and why was one of the greatest challenges, because I wanted to change Venmo based on my own experience as a user. However, not all users may have had the same experience and would prefer to keep the app as is. Learning how to implement useful functions and actually design a prototype was interesting and exciting, and I now better understand the time and effort UI/UX designers put into creating new products. I enjoyed my time in this class and now have experience in coding in html, GitHub markdown syntax, the design process, and Adobe XD.
