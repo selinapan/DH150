@@ -70,7 +70,7 @@ Finally, I used Adobe XD to bring the paper sketches to a digital, interactive p
 
 ### Pitch video
 <figure class="video_container">
-  <iframe src="https://drive.google.com/drive/u/1/folders/1YkEOlf7M4jTC7oZ5WjoPpuMhSDEmBdXN" width="640" height="480"></iframe>
+  <iframe src="https://drive.google.com/file/d/1s2E8PLnPHemoKiOjS94D1W-z4bVUxx3T/view?usp=sharing" width="640" height="480"></iframe>
 </figure>
 
 ### Conclusion: what did you learn throughout the process?
