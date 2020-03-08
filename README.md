@@ -70,8 +70,9 @@ Finally, I used Adobe XD to bring the paper sketches to a digital, interactive p
 
 ### Pitch video
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1s2E8PLnPHemoKiOjS94D1W-z4bVUxx3T/view?usp=sharing" width="640" height="480"></iframe>
+  <iframe src="https://drive.google.com/open?id=1s2E8PLnPHemoKiOjS94D1W-z4bVUxx3T" width="640" height="480"></iframe>
 </figure>
+
 
 ### Conclusion: what did you learn throughout the process?
 I learned that there's a lot more that goes into the creation of applications and websites than I had previously thought. The process of deciding what's best for your users can be hard, as not all users value the same things. Deciding what to input and why was one of the greatest challenges, because I wanted to change Venmo based on my own experience as a user. However, not all users may have had the same experience and would prefer to keep the app as is. Learning how to implement useful functions and actually design a prototype was interesting and exciting, and I now better understand the time and effort UI/UX designers put into creating new products. I enjoyed my time in this class and now have experience in coding in html, GitHub markdown syntax, the design process, and Adobe XD.
