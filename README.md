@@ -23,9 +23,8 @@ I conducted a usability test to measure the usability of Venmo and to observe a 
 During this process, I learned some complications that a real user of Venmo experiences and what she would like to see to improve these issues. My participant was unable to charge the same amount to multiple people at once and expressed how it would be more efficient and convenient if Venmo were to have this function. Some basic features are not as noticeables as they should be. For example, there are basic calculator functions on Venmo, but often times users overlook the buttons and open a separate calculator app. She expressed how she liked the current app, but would like to see improvement.
 [read more...](https://github.com/selinapan/DH150/blob/master/Assignment01.md)
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1xbc6chYynR2qCohl9-UasBfecfuEmBF0/preview" width="640" height="480"></iframe>
-</figure>  
+[Usability Testing](https://drive.google.com/file/d/1xbc6chYynR2qCohl9-UasBfecfuEmBF0/preview)
+
 ### User research [contextual inquiry]:
 This project will support user's financial needs, such as handling  budgeting and transactions. Current solutions satisfy basic transactions, but can be remade to be more efficient and expand to fit other uses. The features I want to add stem from my own use by myself and with friends. For this task, I interviewed a college student to better understand her needs and expectations from the app, so that I could evaluate what needed to be changed.
 [read more...](https://github.com/selinapan/DH150/blob/master/Assignment04.md)
