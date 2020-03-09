@@ -37,25 +37,23 @@ The personas and scenarios were created to visualize what types of users would b
 
 <table>
   <tr>
-    <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Persona.png" height="300px"> </td>
+    <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Persona.png?raw=true" height="300px"> </td>
      <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Empathy%20Map.png?raw=true" height="300px"> </td>
   </tr>
 </table>
 
-![Empathy Map TEST](https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Empathy%20Map.png)
-
-![Jessica Chan Scenario](https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Scenario.png)
+![Jessica Chan Scenario](https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Scenario.png?raw=true)
 
 ### Wireframe and graphic design element variation:
 First, I sketched five main wireframes on paper. These represented the five main screens I envisioned my application to have. When creating these, I kept in mind the three tasks that I wanted my application to accomplish - recording a receipt, paying or requesting multiple people at once, and seeing transaction history.
 [read more...](https://docs.google.com/document/d/1d9vJNG3sxoD5n1QBL3iTTkhd6Cx2BerpRmcqjYZYM6o/edit)
 
-![Wireframe 1](https://github.com/selinapan/DH150/blob/master/Images/Wireframe%201.png)
+![Wireframe 1](https://github.com/selinapan/DH150/blob/master/Images/Wireframe%201.png?raw=true)
 >
 <table>
   <tr>
-     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%20pt2.png" height="500px"> </td>
-     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%203.png" height="500px"> </td>
+     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%20pt2.png?raw=true" height="500px"> </td>
+     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%203.png?raw=true" height="500px"> </td>
   </tr>
 </table>
 
