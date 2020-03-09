@@ -48,12 +48,12 @@ The personas and scenarios were created to visualize what types of users would b
 First, I sketched five main wireframes on paper. These represented the five main screens I envisioned my application to have. When creating these, I kept in mind the three tasks that I wanted my application to accomplish - recording a receipt, paying or requesting multiple people at once, and seeing transaction history.
 [read more...](https://docs.google.com/document/d/1d9vJNG3sxoD5n1QBL3iTTkhd6Cx2BerpRmcqjYZYM6o/edit)
 
-![Wireframe 1](https://github.com/selinapan/DH150/blob/master/Images/Wireframe%201.png?raw=true)
+![Wireframe 1](https://github.com/selinapan/DH150/blob/master/Images/Wireframe%201%20again.png?raw=true)
 >
 <table>
   <tr>
-     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%20pt2.png?raw=true" height="500px"> </td>
-     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%203.png?raw=true" height="500px"> </td>
+     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%202.png?raw=true" height="500px"> </td>
+     <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Wireframe%203%20again.png?raw=true" height="500px"> </td>
   </tr>
 </table>
 
@@ -61,8 +61,8 @@ First, I sketched five main wireframes on paper. These represented the five main
 Next, I sketched how these wireframes would interact to be able to do the three tasks, creating a wireflow on paper. These showed the possible interactions with the application, and later I had a user test the low-fidelity prototype.
 [read more...](https://docs.google.com/document/d/1d9vJNG3sxoD5n1QBL3iTTkhd6Cx2BerpRmcqjYZYM6o/edit)
 
-![Wireflow 1](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%201.png)
-![Wireflow 2](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%202.png)
+![Wireflow 1](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%201.png?raw=true)
+![Wireflow 2](https://github.com/selinapan/DH150/blob/master/Images/Wireflow%202%20again.png?raw=true)
 
 ### High-fidelity prototype (functional/interactive prototype)
 Finally, I used Adobe XD to bring the paper sketches to a digital, interactive prototype. I first had to learn how to navigate Adobe XD in order to create frames in the shape of an iPhone XR and download Adobe XD iOS ui kits to add parts that made the wireframes look more realistic. I also used the Noun Project in order to download and use icons that were simple and recognizable, like a search icon and settings icon. Then, I started to create the wireframes I had sketched on paper, and added more that I needed to run my three tasks. After I was satisfied with how my wireframes looked, I used Adobe XD's prototype function to link buttons to slides and create my wireflow. After everything I wanted was linked, I had a tester try the three tasks I set and discovered a dead end on one frame, which I later fixed. 
