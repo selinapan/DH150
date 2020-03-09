@@ -67,6 +67,7 @@ Next, I sketched how these wireframes would interact to be able to do the three 
 ### High-fidelity prototype (functional/interactive prototype)
 Finally, I used Adobe XD to bring the paper sketches to a digital, interactive prototype. I first had to learn how to navigate Adobe XD in order to create frames in the shape of an iPhone XR and download Adobe XD iOS ui kits to add parts that made the wireframes look more realistic. I also used the Noun Project in order to download and use icons that were simple and recognizable, like a search icon and settings icon. Then, I started to create the wireframes I had sketched on paper, and added more that I needed to run my three tasks. After I was satisfied with how my wireframes looked, I used Adobe XD's prototype function to link buttons to slides and create my wireflow. After everything I wanted was linked, I had a tester try the three tasks I set and discovered a dead end on one frame, which I later fixed. 
 [read more...](https://github.com/selinapan/DH150/blob/master/Assignment08.md)
+>
 [High fidelity Prototype](https://github.com/selinapan/DH150/blob/master/Images/Prototype2.png)
 
 ### Pitch video
