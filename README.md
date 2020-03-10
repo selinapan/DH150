@@ -37,7 +37,7 @@ The personas and scenarios were created to visualize what types of users would b
 
 <table>
   <tr>
-    <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Persona.png?raw=true" height="300px"> </td>
+    <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Persona.png" height="300px"> </td>
      <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Empathy%20Map.png?raw=true" height="300px"> </td>
   </tr>
 </table>
