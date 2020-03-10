@@ -71,7 +71,7 @@ Finally, I used Adobe XD to bring the paper sketches to a digital, interactive p
 ![WireframeXD](https://github.com/selinapan/DH150/blob/master/Images/PrototypeFrames.png?raw=true)
 ![WireflowXD](https://github.com/selinapan/DH150/blob/master/Images/Prototype2.png?raw=true)
 >
-[High fidelity Prototype](https://xd.adobe.com/view/31b256fc-f0c9-41c3-63f0-25abdfd185c9-4783/)
+[High fidelity Prototype](https://xd.adobe.com/view/31b256fc-f0c9-41c3-63f0-25abdfd185c9-4783/?fullscreen&hints=off)
 
 ### Pitch video
 [Pitch Video](https://drive.google.com/open?id=1s2E8PLnPHemoKiOjS94D1W-z4bVUxx3T)
