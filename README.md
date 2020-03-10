@@ -74,7 +74,7 @@ Finally, I used Adobe XD to bring the paper sketches to a digital, interactive p
 [High fidelity Prototype](https://xd.adobe.com/view/31b256fc-f0c9-41c3-63f0-25abdfd185c9-4783/?fullscreen&hints=off)
 
 ### Pitch video
-[Pitch Video](https://drive.google.com/open?id=1s2E8PLnPHemoKiOjS94D1W-z4bVUxx3T)
+[Pitch Video](https://www.youtube.com/watch?v=AYzedPs2qtQ)
 (For some reason my "Hello, this is Selina" got cut off)
 
 ### Conclusion: what did you learn throughout the process?
