@@ -75,6 +75,7 @@ Finally, I used Adobe XD to bring the paper sketches to a digital, interactive p
 
 ### Pitch video
 [Pitch Video](https://drive.google.com/open?id=1s2E8PLnPHemoKiOjS94D1W-z4bVUxx3T)
+(For some reason my "Hello, this is Selina" got cut off)
 
 ### Conclusion: what did you learn throughout the process?
 I am glad that we were able to spend the entire quarter centered on creating one product from start to finish. Being able to break down each part of the ui/ux design process was helpful in teaching design theories and in learning how to apply it to a concrete project. I learned that there's a lot more that goes into the creation of applications and websites than I had previously thought. The process of deciding what's best for your users can be hard, as not all users value the same things. Deciding what to input and why was one of the greatest challenges; I wanted to expand Venmo's features largely because of my own use and observations of peers around me, but those changes might not be what all users want. I had to challenge myself to step back and use other users' feedback and not just my own when designing the final product. Their voices allowed me to reevaluate and make the app better as a whole. There is always more user feedback to hear and features to  be improved. I now better understand the time and effort UI/UX designers put into creating new products. I enjoyed my time in this class and have experience in coding in html, GitHub markdown syntax, the design process, and Adobe XD as a result.  
