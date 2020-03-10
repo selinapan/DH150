@@ -35,10 +35,9 @@ This project will support user's financial needs, such as handling  budgeting an
 The personas and scenarios were created to visualize what types of users would be using this application and what needs they would want satisfied. Thus, I created a Powerpoint slide of three hypothetical users, consisting of their demographics, needs and wants, and possible common situtations they might find themselves in.
 [read more...](https://docs.google.com/presentation/d/1XBemjvncqEgdHHZ5YDSxc0d9lTV6P5X-fe09RRontus/edit#slide=id.p)
 
-![Jessica](https://github.com/selinapan/DH150/blob/master/Images/Jessica_Chen_Persona.png)
 <table>
   <tr>
-    <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica_Chen_Persona.png" height="300px"> </td>
+    <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Persona.png?raw=true" height="300px"> </td>
      <td> <img src="https://github.com/selinapan/DH150/blob/master/Images/Jessica%20Chen%20Empathy%20Map.png?raw=true" height="300px"> </td>
   </tr>
 </table>
